@@ -16,4 +16,5 @@ a:hover {
   color: rgb(173, 13, 173);
   background-color: transparent;
   text-decoration: underline;
+  text-align:left;
 }
