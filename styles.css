@@ -16,7 +16,11 @@ a:hover {
   color: rgb(173, 13, 173);
   background-color: transparent;
   text-decoration: underline;
-  text-align:right;
-  height: 100%;
-  width: 100%;
+  text-align: right;
+}
+
+Body{
+width: 40%;
+height: 20%;
+border-image: 10%;
 }
