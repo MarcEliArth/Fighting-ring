@@ -1,11 +1,9 @@
 body{
     background-color: black;
-    color: white;
+    color: rgb(163, 22, 163);
 }
 a:link {
   color: rgb(163, 22, 163);
-  background-color: transparent;
-  text-decoration: none;
 }
 a:visited {
   color: rgb(255, 255, 255);
@@ -22,5 +20,4 @@ a:hover {
 Body{
 width: 40%;
 height: 20%;
-border-image: 10%;
 }
