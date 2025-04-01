@@ -1,4 +1,4 @@
-body{
+body {
     background-color: rgb(0, 0, 0);
     color: rgb(163, 22, 163);
 }
@@ -14,10 +14,4 @@ a:hover {
   color: rgb(173, 13, 173);
   background-color: transparent;
   text-decoration: underline;
-  text-align: right;
-}
-
-Body{
-width: 40%;
-height: 20%;
 }
